@@ -1,0 +1,3 @@
+# fun-fact
+
+`<fun-fact />`
